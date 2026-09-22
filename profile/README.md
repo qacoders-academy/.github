@@ -1,10 +1,14 @@
 <div align="center">
 
+![QaCoders Academy - Capacitando profissionais para o mercado de tecnologia](./assets/banner.jpg)
+
 # QaCoders Academy
 
 **Formando profissionais de Qualidade de Software prontos para o mercado**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-QaCoders%20Academy-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qacoders)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-QaCoders%20Academy-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/company/qa-coders-academy/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-qa.coders__academy-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1a2e)](https://www.instagram.com/qa.coders_academy/)
 
 </div>
 
@@ -57,7 +61,7 @@ Aqui você encontra projetos práticos, materiais de estudo e desafios que ajuda
 
 1. Explore nossos [repositórios](https://github.com/orgs/qacoders-academy/repositories)
 2. Acompanhe nossos projetos e desafios
-3. Conecte-se conosco no [LinkedIn](https://www.linkedin.com/company/qacoders)
+3. Conecte-se conosco no [LinkedIn](https://www.linkedin.com/company/qa-coders-academy/)
 
 ---
 
